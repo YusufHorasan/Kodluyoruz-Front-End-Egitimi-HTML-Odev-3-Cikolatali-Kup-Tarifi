@@ -1,0 +1,21 @@
+main {
+    text-align: center;
+}
+html {
+    background-color: burlywood;
+}
+h1 {color: chocolate;}
+article-1 {
+    /* text-align: center; */
+    text-indent: 400px;
+    list-style-position: inside;
+}
+article-2 {
+    /* text-align: center; */
+    text-indent: 400px;   
+    list-style-position: inside;
+}
+article-3 {
+    /* text-align: right; */
+    text-indent: 1250px;
+}
